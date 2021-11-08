@@ -1,2 +1,2 @@
-easyrecipies.github.io
-Web Design Practice
+easyrecipies
+Web Design Practice for MIT course
